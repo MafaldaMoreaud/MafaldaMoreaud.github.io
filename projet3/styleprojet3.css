@@ -3,11 +3,7 @@ html * {
 }
 
 html {
-  background: url(../back/jaune2.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: #FBFBC6;
   font-family: 'Alegreya', serif;
   font-weight: 400;
   width: 90%;
