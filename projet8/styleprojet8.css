@@ -17,7 +17,7 @@ body{
   width: 100%;
   min-height: 100vh;
   grid-template-columns: repeat(auto-fill, 20px);
-  grid-template-rows:repeat(550, 12.5px);
+  grid-template-rows:repeat(650, 12.5px);
 }
 
 .grille {
@@ -28,7 +28,7 @@ body{
   width: 100%;
   min-height: 100vh;
   grid-template-columns: repeat(auto-fill, 20px);
-  grid-template-rows:repeat(550, 12.5px);
+  grid-template-rows:repeat(650, 12.5px);
 }
 
 a {
@@ -180,12 +180,12 @@ a {
 
 .image4{
   grid-column-start: 44;
-  grid-row-start: 126;
+  grid-row-start: 149;
 }
 
 .image5{
   grid-column-start: 44;
-  grid-row-start: 183;
+  grid-row-start: 232;
 }
 
 .image6{
@@ -195,7 +195,7 @@ a {
 
 .image7{
   grid-column-start: 44;
-  grid-row-start: 236;
+  grid-row-start: 308;
 }
 
 .image8{
@@ -210,7 +210,7 @@ a {
 
 .image10{
   grid-column-start: 44;
-  grid-row-start: 290;
+  grid-row-start: 387;
 }
 
 .image11{
@@ -220,7 +220,7 @@ a {
 
 .image12{
   grid-column-start: 44;
-  grid-row-start: 344;
+  grid-row-start: 464;
 }
 
 .image13{
@@ -230,7 +230,7 @@ a {
 
 .image14{
   grid-column-start: 44;
-  grid-row-start: 399;
+  grid-row-start: 541;
 }
 
 .image15{
@@ -239,16 +239,16 @@ a {
 }
 
 .image16{
-  grid-column-start: 44;
-  grid-row-start: 458;
-}
-
-.image17{
   grid-column-start: 17;
   grid-row-start: 517;
 }
 
+.image17{
+  grid-column-start: 17;
+  grid-row-start: 576;
+}
+
 .image18{
-  grid-column-start: 44;
-  grid-row-start: 517;
+  grid-column-start: 17;
+  grid-row-start: 607;
 }
