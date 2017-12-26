@@ -68,16 +68,26 @@ a {
   }
 
 
-.about{
-    font-style:italic;
-    font-size: 19px;
-    font-weight: 400;
-    text-decoration: underline;
-    white-space: nowrap;
-    grid-column-end: -11;
-    grid-row-end: 7;
- }
+  .propos{
+      font-style:italic;
+      font-size: 19px;
+      text-decoration: underline;
+      white-space: nowrap;
+      grid-column-end:-11;
+      grid-row-end:7;
+      text-align: right;
+    }
 
+    .contact{
+      font-style:italic;
+      font-size: 19px;
+      text-decoration: underline;
+      white-space: nowrap;
+      grid-column-end: -7;
+      grid-row-end: 7;
+      text-align: right;
+    }
+    
 .retour{
   font-style:italic;
   font-size: 19px;

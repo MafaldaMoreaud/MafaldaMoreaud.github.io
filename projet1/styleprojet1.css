@@ -66,15 +66,25 @@ a {
   grid-row-end: 4;
   }
 
+.propos{
+      font-style:italic;
+      font-size: 19px;
+      text-decoration: underline;
+      white-space: nowrap;
+      grid-column-end:-11;
+      grid-row-end:7;
+      text-align: right;
+    }
 
-.about{
-    font-style:italic;
-    font-size: 19px;
-    text-decoration: underline;
-    white-space: nowrap;
-    grid-column-end: -11;
-    grid-row-end: 7;
- }
+  .contact{
+      font-style:italic;
+      font-size: 19px;
+      text-decoration: underline;
+      white-space: nowrap;
+      grid-column-end: -7;
+      grid-row-end: 7;
+      text-align: right;
+    }
 
 .retour{
   font-style:italic;
