@@ -1,0 +1,113 @@
+html * {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #9CF6BF;
+  font-family: 'Alegreya', serif;
+  font-weight: 400;
+  width: 90%;
+}
+
+body{
+  position: absolute;
+  display: grid;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  grid-template-columns: repeat(auto-fill, 20px);
+  grid-template-rows:repeat(250, 12.5px);
+}
+
+.grille {
+  position: absolute;
+  display: grid;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  grid-template-columns: repeat(auto-fill, 20px);
+  grid-template-rows:repeat(250, 12.5px);
+}
+
+a {
+  color:black;
+  text-decoration: none;
+}
+
+.titre1 {
+  font-size: 26px;
+  font-weight: 400;
+  font-style: italic;
+  grid-column-start: 4;
+  grid-row-end: 4;
+  white-space: nowrap;
+  }
+
+.titre2 {
+  font-size: 19px;
+  font-weight: 400;
+  font-style:italic;
+  line-height:15%;
+  white-space: nowrap;
+  grid-column-start: 6;
+  grid-row-end: 8;
+}
+
+.langue {
+  font-style:italic;
+  font-size: 19px;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  grid-column-end: -6;
+  grid-row-end: 4;
+  }
+
+
+.propos{
+    font-style:italic;
+    font-size: 19px;
+    text-decoration: underline;
+    white-space: nowrap;
+    grid-column-end:-11;
+    grid-row-end:7;
+    text-align: right;
+  }
+
+  .contact{
+    font-style:italic;
+    font-size: 19px;
+    text-decoration: underline;
+    white-space: nowrap;
+    grid-column-end: -7;
+    grid-row-end: 7;
+    text-align: right;
+  }
+
+  .retour{
+    font-style:italic;
+    font-size: 19px;
+    text-decoration: underline;
+    white-space: nowrap;
+    grid-column-end: -6;
+    grid-row-end: 10;
+}
+
+.quijesuis{
+  z-index: 1;
+  font-size: 19px;
+  font-weight: 400;
+  font-style: italic;
+  grid-column-start: 4;
+  grid-column-end: 70;
+  grid-row-start: 34;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.balec{
+  grid-column-start: 27;
+  grid-row-start: 14;
+}
