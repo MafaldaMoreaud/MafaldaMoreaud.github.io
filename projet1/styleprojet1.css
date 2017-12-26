@@ -39,8 +39,8 @@ a {
 
 
 .titre1 {
-  font-size: 26px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 500;
   font-style: italic;
   grid-column-start: 4;
   grid-row-end: 4;
@@ -54,8 +54,8 @@ a {
   font-style:italic;
   line-height:15%;
   white-space: nowrap;
-  grid-column-start: 6;
-  grid-row-end: 8;
+  grid-column-start: 5;
+  grid-row-end: 7;
 }
 
 .langue {

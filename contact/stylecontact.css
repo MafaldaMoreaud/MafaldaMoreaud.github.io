@@ -94,30 +94,3 @@ a {
     grid-column-end: -6;
     grid-row-end: 10;
 }
-
-.bonjour{
-  z-index: 1;
-  font-size: 30px;
-  font-weight: 500;
-  font-style: italic;
-  grid-column-start: 28;
-  grid-row-start: 19;
-  text-align: left;
-  white-space: nowrap;
-}
-.quijesuis{
-  z-index: 1;
-  font-size: 19px;
-  font-weight: 400;
-  font-style: italic;
-  grid-column-start: 31;
-  grid-column-end: 70;
-  grid-row-start: 27;
-  text-align: left;
-  white-space: nowrap;
-}
-
-.balec{
-  grid-column-start: 4;
-  grid-row-start: 27;
-}
