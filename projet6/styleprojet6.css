@@ -99,7 +99,7 @@ a {
 }
 
 .imagecouv{
-  grid-column-start: 44;
+  grid-column-start: 41;
   grid-row-start: 14;
 }
 
@@ -113,7 +113,7 @@ a {
   padding-top: 11px;
   padding-left: 59px;
   grid-column-start: 1;
-  grid-column-end: 39;
+  grid-column-end: 37;
   grid-row-start: 14;
 }
 
@@ -166,7 +166,7 @@ a {
 }
 
 .explication{
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   grid-column-start: 4;
   grid-column-end: 39;
@@ -176,36 +176,36 @@ a {
 }
 
 .image1{
-  grid-column-start: 44;
-  grid-row-start: 72;
+  grid-column-start: 41;
+  grid-row-start: 65;
 }
 
 .image2{
   grid-column-start: 17;
-  grid-row-start: 72;
+  grid-row-start: 65;
 }
 
 .image3{
   grid-column-start: 17;
-  grid-row-start: 125;
+  grid-row-start: 112;
 }
 
 .image4{
-  grid-column-start: 44;
-  grid-row-start: 114;
+  grid-column-start: 41;
+  grid-row-start: 101;
 }
 
 .image5{
-  grid-column-start: 44;
-  grid-row-start: 156;
+  grid-column-start: 41;
+  grid-row-start: 138;
 }
 
 .image6{
   grid-column-start: 17;
-  grid-row-start: 173;
+  grid-row-start: 155;
 }
 
 .image7{
-  grid-column-start: 44;
-  grid-row-start: 198;
+  grid-column-start: 41;
+  grid-row-start: 175;
 }

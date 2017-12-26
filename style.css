@@ -166,14 +166,14 @@ margin-bottom: 24px;
 
 
 .projet1 {
-  grid-column-start: 47;
+  grid-column-start: 44;
   grid-row-start: 14;
 }
 
 .titreprojet1{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 66;
+  grid-column-start: 64;
   grid-row-start: 48;
   z-index: 1;
   white-space: nowrap;
@@ -186,25 +186,25 @@ margin-bottom: 24px;
 }
 
 .titreprojet2{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
   text-align: right;
-  grid-column-start: 36;
-  grid-row-start: 58;
+  grid-column-start: 37;
+  grid-row-start: 57;
   z-index: 1;
   white-space: nowrap;
   text-decoration: underline;
 }
 
 .projet3{
-  grid-column-start:13;
+  grid-column-start:14;
   grid-row-start: 70;
 }
 
 .titreprojet3{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 25;
+  grid-column-start: 27;
   grid-row-start: 104;
   z-index: 1;
   white-space: nowrap;
@@ -212,14 +212,14 @@ margin-bottom: 24px;
 }
 
 .projet4 {
-  grid-column-start: 47;
+  grid-column-start: 44;
   grid-row-start: 70;
 }
 
 .titreprojet4{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 53;
+  grid-column-start: 51;
   grid-row-start: 114;
   z-index: 1;
   white-space: nowrap;
@@ -227,14 +227,14 @@ margin-bottom: 24px;
 }
 
 .projet5{
-  grid-column-start: 47;
+  grid-column-start: 44;
   grid-row-start: 126;
 }
 
 .titreprojet5{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 60;
+  grid-column-start: 58;
   grid-row-start: 160;
   z-index: 1;
   white-space: nowrap;
@@ -247,9 +247,9 @@ margin-bottom: 24px;
 }
 
 .titreprojet6{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 31;
+  grid-column-start: 32;
   grid-row-start: 170;
   z-index: 1;
   white-space: nowrap;
@@ -257,14 +257,14 @@ margin-bottom: 24px;
 }
 
 .projet7{
-  grid-column-start: 47;
+  grid-column-start: 44;
   grid-row-start: 183;
 }
 
 .titreprojet7{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 62;
+  grid-column-start: 60;
   grid-row-start: 227;
   z-index: 1;
   white-space: nowrap;
@@ -277,9 +277,9 @@ margin-bottom: 24px;
 }
 
 .titreprojet8{
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
-  grid-column-start: 30;
+  grid-column-start: 31;
   grid-row-start: 217;
   z-index: 1;
   white-space: nowrap;

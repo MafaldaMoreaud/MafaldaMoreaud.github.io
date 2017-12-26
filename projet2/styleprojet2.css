@@ -17,7 +17,7 @@ body{
   width: 100%;
   min-height: 100vh;
   grid-template-columns: repeat(auto-fill, 20px);
-  grid-template-rows:repeat(500, 12.5px);
+  grid-template-rows:repeat(450, 12.5px);
 }
 
 .grille {
@@ -28,7 +28,7 @@ body{
   width: 100%;
   min-height: 100vh;
   grid-template-columns: repeat(auto-fill, 20px);
-  grid-template-rows:repeat(500, 12.5px);
+  grid-template-rows:repeat(450, 12.5px);
 }
 
 a {
@@ -89,7 +89,7 @@ a {
 }
 
 .imagecouv{
-  grid-column-start: 44;
+  grid-column-start: 41;
   grid-row-start: 14;
 }
 
@@ -103,7 +103,7 @@ a {
   padding-top: 11px;
   padding-left: 59px;
   grid-column-start: 1;
-  grid-column-end: 39;
+  grid-column-end: 37;
   grid-row-start: 14;
 }
 
@@ -144,7 +144,7 @@ a {
 }
 
 .explication{
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   grid-column-start: 4;
   grid-column-end: 39;
@@ -154,71 +154,71 @@ a {
 }
 
 .image1{
-  grid-column-start: 44;
-  grid-row-start: 72;
+  grid-column-start: 41;
+  grid-row-start: 65;
 }
 
 .image2{
   grid-column-start: 17;
-  grid-row-start: 72;
+  grid-row-start: 65;
 }
 
 .image3{
-  grid-column-start: 44;
-  grid-row-start: 117;
+  grid-column-start: 41;
+  grid-row-start: 104;
 }
 
 .image4{
   grid-column-start: 17;
-  grid-row-start: 128;
+  grid-row-start: 115;
 }
 
 .image5{
   grid-column-start: 17;
-  grid-row-start: 160;
+  grid-row-start: 144;
 }
 
 .image6{
-  grid-column-start: 44;
-  grid-row-start: 162;
+  grid-column-start: 41;
+  grid-row-start: 144;
 }
 
 .image7{
   grid-column-start: 17;
-  grid-row-start: 217;
+  grid-row-start: 195;
 }
 
 .image8{
   grid-column-start: 17;
-  grid-row-start: 249;
+  grid-row-start: 224;
 }
 
 .image9{
-  grid-column-start: 44;
-  grid-row-start: 245;
+  grid-column-start: 41;
+  grid-row-start: 216;
 }
 
 .image10{
   grid-column-start: 17;
-  grid-row-start: 281;
+  grid-row-start: 253;
 }
 
 .image11{
-  grid-column-start: 44;
-  grid-row-start: 290;
+  grid-column-start: 41;
+  grid-row-start: 256;
 }
 
 .image12{
   grid-column-start: 17;
-  grid-row-start: 338;
+  grid-row-start: 303;
 }
 
 .image13{
   grid-column-start: 17;
-  grid-row-start: 394;
+  grid-row-start: 353;
 }
 
 .image14{
-  grid-column-start: 44;
-  grid-row-start: 373;
+  grid-column-start: 41;
+  grid-row-start: 328;
 }
