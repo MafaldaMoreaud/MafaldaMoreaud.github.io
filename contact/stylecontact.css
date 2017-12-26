@@ -94,3 +94,42 @@ a {
     grid-column-end: -6;
     grid-row-end: 10;
 }
+
+.bonjour{
+  z-index: 1;
+  font-size: 30px;
+  font-weight: 500;
+  font-style: italic;
+  grid-column-start: 24;
+  grid-row-start: 18;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.contacter{
+  z-index: 1;
+  font-size: 19px;
+  font-weight: 400;
+  font-style: italic;
+  grid-column-start: 31;
+  grid-column-end: 70;
+  grid-row-start: 19;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.hello{
+  grid-column-start: 31;
+  grid-row-start: 34;
+}
+
+.stage{
+  z-index: 1;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  grid-column-start: 31;
+  grid-row-start: 29;
+  text-align: left;
+  white-space: nowrap;
+}
