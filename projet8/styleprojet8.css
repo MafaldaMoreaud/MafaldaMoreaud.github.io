@@ -97,6 +97,16 @@ a {
   grid-row-end: 10;
 }
 
+.cv{
+  font-style:italic;
+  font-size: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+  grid-column-end: -14;
+  grid-row-end: 7;
+  text-align: right;
+}
+
 .imagecouv{
   grid-column-start: 41;
   grid-row-start: 14;
